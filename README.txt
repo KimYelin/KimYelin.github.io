@@ -35,3 +35,7 @@ Credits:
 		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+		
+		
+		
+		덕성여대 첫번째 페이지
